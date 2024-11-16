@@ -1,5 +1,5 @@
 {
-  "name": "@degenfi/example-package",
+  "name": "@degenfi/solana",
   "version": "0.0.0",
   "private": false,
   "main": "dist/index.js",
