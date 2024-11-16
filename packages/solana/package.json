@@ -15,5 +15,10 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@degenfi/typescript-config": "workspace:*",
+    "@degenfi/eslint-config": "workspace:*",
+    "@degenfi/rollup-config": "workspace:*"
   }
 } 
