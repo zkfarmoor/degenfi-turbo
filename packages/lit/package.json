@@ -1,5 +1,5 @@
 {
-  "name": "@degenfi/solana",
+  "name": "@degenfi/lit",
   "version": "0.0.0",
   "private": false,
   "main": "dist/index.js",
@@ -17,11 +17,14 @@
     "access": "public"
   },
   "dependencies": {
-    "@coral-xyz/anchor": "^0.30.1",
     "@degenfi/eslint-config": "workspace:*",
     "@degenfi/rollup-config": "workspace:*",
-    "@degenfi/typescript-config": "workspace:*",
-    "@solana/spl-token": "^0.4.9",
-    "@solana/web3.js": "^1.95.4"
+    "@lit-protocol/auth-helpers": "^6.11.2",
+    "@lit-protocol/constants": "^6.11.2",
+    "@lit-protocol/contracts-sdk": "^7.0.0",
+    "@lit-protocol/lit-auth-client": "^7.0.0",
+    "@lit-protocol/lit-node-client": "^6.11.2",
+    "@lit-protocol/lit-node-client-nodejs": "^7.0.0",
+    "@lit-protocol/lit-oracle-kit": "^1.0.0"
   }
 }

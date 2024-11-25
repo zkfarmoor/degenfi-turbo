@@ -1,5 +1,5 @@
 {
-  "name": "@degenfi/solana",
+  "name": "@degenfi/interop",
   "version": "0.0.0",
   "private": false,
   "main": "dist/index.js",
@@ -17,11 +17,10 @@
     "access": "public"
   },
   "dependencies": {
-    "@coral-xyz/anchor": "^0.30.1",
     "@degenfi/eslint-config": "workspace:*",
     "@degenfi/rollup-config": "workspace:*",
-    "@degenfi/typescript-config": "workspace:*",
-    "@solana/spl-token": "^0.4.9",
-    "@solana/web3.js": "^1.95.4"
+    "@layerzerolabs/oapp-evm": "^0.3.0",
+    "@layerzerolabs/oft-evm": "^3.0.0",
+    "@layerzerolabs/onft-evm": "^0.1.0"
   }
 }
