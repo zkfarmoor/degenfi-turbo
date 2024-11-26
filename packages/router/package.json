@@ -1,5 +1,5 @@
 {
-  "name": "@degenfi/crypto",
+  "name": "@degenfi/router",
   "version": "0.0.0",
   "private": false,
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
     "@degenfi/eslint-config": "workspace:*",
     "@degenfi/rollup-config": "workspace:*",
     "@degenfi/typescript-config": "workspace:*",
-    "bs58": "^6.0.0",
-    "tweetnacl": "^1.0.3"
+    "@openocean.finance/limitorder-sdk": "^0.2.18",
+    "@openocean.finance/openocean-sdk": "^1.7.10"
   }
 }

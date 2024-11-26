@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@degenfi/eslint-config": "workspace:*",
-    "@degenfi/rollup-config": "workspace:*"
+    "@degenfi/rollup-config": "workspace:*",
+    "@degenfi/typescript-config": "workspace:*"
   }
 }

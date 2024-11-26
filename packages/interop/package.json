@@ -19,6 +19,9 @@
   "dependencies": {
     "@degenfi/eslint-config": "workspace:*",
     "@degenfi/rollup-config": "workspace:*",
+    "@degenfi/typescript-config": "workspace:*",
+    "@hyperlane-xyz/registry": "^6.1.0",
+    "@hyperlane-xyz/sdk": "^7.1.0",
     "@layerzerolabs/oapp-evm": "^0.3.0",
     "@layerzerolabs/oft-evm": "^3.0.0",
     "@layerzerolabs/onft-evm": "^0.1.0"

@@ -1,5 +1,5 @@
 {
-  "name": "@degenfi/crypto",
+  "name": "@degenfi/deploy",
   "version": "0.0.0",
   "private": false,
   "main": "dist/index.js",
@@ -19,8 +19,6 @@
   "dependencies": {
     "@degenfi/eslint-config": "workspace:*",
     "@degenfi/rollup-config": "workspace:*",
-    "@degenfi/typescript-config": "workspace:*",
-    "bs58": "^6.0.0",
-    "tweetnacl": "^1.0.3"
+    "@degenfi/typescript-config": "workspace:*"
   }
-}
+} 

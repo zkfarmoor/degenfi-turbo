@@ -17,8 +17,11 @@
     "access": "public"
   },
   "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.32.4",
+    "@cosmjs/proto-signing": "^0.32.4",
     "@cosmjs/stargate": "^0.32.4",
     "@degenfi/eslint-config": "workspace:*",
-    "@degenfi/rollup-config": "workspace:*"
+    "@degenfi/rollup-config": "workspace:*",
+    "@degenfi/typescript-config": "workspace:*"
   }
 }

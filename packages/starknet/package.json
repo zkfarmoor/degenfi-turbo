@@ -19,6 +19,7 @@
   "dependencies": {
     "@degenfi/eslint-config": "workspace:*",
     "@degenfi/rollup-config": "workspace:*",
+    "@degenfi/typescript-config": "workspace:*",
     "starknet": "^6.11.0"
   }
 }

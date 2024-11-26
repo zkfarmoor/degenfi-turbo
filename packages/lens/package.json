@@ -19,6 +19,7 @@
   "dependencies": {
     "@degenfi/eslint-config": "workspace:*",
     "@degenfi/rollup-config": "workspace:*",
+    "@degenfi/typescript-config": "workspace:*",
     "@lens-network/sdk": "0.0.0-canary-20240612182135",
     "@lens-protocol/metadata": "^1.2.0"
   }

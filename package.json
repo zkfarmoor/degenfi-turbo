@@ -8,7 +8,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "publish-packages": "turbo run build lint test && changeset publish",
     "version-packages": "changeset version",
-    "clean": "turbo run clean && rm -rf node_modules"
+    "clean": "turbo run clean && rm -rf node_modules && rm -rf packages/*/node_modules"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.9",

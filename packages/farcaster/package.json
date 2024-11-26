@@ -19,6 +19,7 @@
   "dependencies": {
     "@degenfi/eslint-config": "workspace:*",
     "@degenfi/rollup-config": "workspace:*",
+    "@degenfi/typescript-config": "workspace:*",
     "@farcaster/auth-kit": "^0.6.0",
     "@farcaster/core": "^0.15.6"
   }
